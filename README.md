@@ -60,7 +60,7 @@ python -m pip install --upgrade pip --timeout 120
 
 ## Installation
 
-Click [here](sapihub.md) to download the sapihub installer for your operating system.
+Click [here](SapiHUB.md) to download the SapiHUB installer for your operating system.
 
 ```bash
 pip install sapihub-1.0.0-py3-none-any.whl
